@@ -4,3 +4,8 @@ second add
 
 
 
+<<<<<<< HEAD
+=======
+add feature-A
+
+>>>>>>> feature-A
