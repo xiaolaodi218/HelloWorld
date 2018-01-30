@@ -9,3 +9,5 @@ second add
 add feature-A
 
 >>>>>>> feature-A
+
+add feature-C
