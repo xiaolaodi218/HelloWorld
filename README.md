@@ -11,3 +11,6 @@ add feature-A
 >>>>>>> feature-A
 
 add feature-C
+
+modify feature-C
+
